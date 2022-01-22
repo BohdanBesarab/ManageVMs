@@ -8,7 +8,3 @@
 - Task 5: Deploy zone-resilient Azure virtual machine scale sets by using the Azure portal
 - Task 6: Configure Azure virtual machine scale sets by using virtual machine extensions
 - Task 7: Scale compute and storage for Azure virtual machine scale sets (optional)
-
-```
-:tada: :tada: :tada:
-```
